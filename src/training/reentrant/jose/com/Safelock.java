@@ -1,5 +1,6 @@
 package training.reentrant.jose.com;
 
+
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

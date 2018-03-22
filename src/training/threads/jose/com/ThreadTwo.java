@@ -1,5 +1,6 @@
 package training.threads.jose.com;
 
+
 public class ThreadTwo implements Runnable {
 	
 	private Counter counter;

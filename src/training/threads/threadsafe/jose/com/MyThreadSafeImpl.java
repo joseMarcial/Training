@@ -1,5 +1,6 @@
 package training.threads.threadsafe.jose.com;
 
+
 public class MyThreadSafeImpl {
 	
 	private static  MyThreadSafeImpl INSTANCE; 

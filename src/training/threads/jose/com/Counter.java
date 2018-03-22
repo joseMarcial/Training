@@ -1,3 +1,4 @@
+
 package training.threads.jose.com;
 
 public class Counter {

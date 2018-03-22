@@ -1,5 +1,6 @@
 package training.threads.pingpong.jose.com;
 
+
 public class Player implements Runnable {
 	
 	Ball ball;
